@@ -1,4 +1,6 @@
-The Plant Project that helps you track if your plant is happy with the current temperature.
+# TempCheck
+
+The Plant Project is a program that helps you track if your plant is happy with the current temperature.
 The program is designed to be used for a peace lily. The specification of proper temperatures can be found in Menu>Description.
 
 It consists of two parts:
